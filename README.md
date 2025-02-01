@@ -1,7 +1,7 @@
 # Text Stroke in SwiftUI
 Text Stroke is a view modifier that adds a stroke to text in SwiftUI.
 
-*Only works with a stroke width less than the thickness of the font *
+*Only works with a stroke width less than the thickness of the font.*
 
 **All feedback welcome.**
 
